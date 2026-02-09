@@ -49,6 +49,7 @@ Perhaps just as important as the PCB itself is how it's driven: I've created a c
 
 [Papa's Project Board - Code](https://github.com/benkoren/papa-project-board-code)
 
+![](media/code-preview.png)
 
 ## Important Changes Across Revisions
 
