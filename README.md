@@ -45,7 +45,9 @@ The enclosure design was done in FreeCAD - all relevant files are located in the
 
 ## Code
 
-Perhaps just as important as the PCB itself is how it's driven: I've created a code template as a great starting point for all projects based upon the universal controller board. It supports some foundational things like driving the OLED and responding to the various inputs included with the board. It's in a separate repository here: (TODO: LINK OTHER REPO)
+Perhaps just as important as the PCB itself is how it's driven: I've created a code template as a great starting point for all projects based upon the universal controller board. It supports some foundational things like driving the OLED and responding to the various inputs included with the board. It's in a separate repository here:
+
+[Papa's Project Board - Code](https://github.com/benkoren/papa-project-board-code)
 
 
 ## Important Changes Across Revisions
