@@ -30,7 +30,6 @@ The overall approach and many schematic choices borrow a great deal from the [Ba
 ![](media/controller-board-front-live.png)
 ![](media/controller-board-rear-live.png)
 
-
 ## Enclosure
 
 In addition to the PCB design, I've created a corresponding 3d-printed dashplate which allows the board to be incorporated into any surface mount style application.
@@ -56,3 +55,5 @@ Perhaps just as important as the PCB itself is how it's driven: I've created a c
 ### 1.0 to 1.1
  - C11 and C12 are now 0nF - they are counterproductive when using interrupts for SW2 and SW3. We're going to just use software debouncing instead. 
  - R8 is now 470R
+ - R5 is now 4.7k (to dim the LED)
+ - J7: Both pins 2 and 3 are now connected to GND
